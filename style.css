@@ -5,13 +5,11 @@
     margin: 15px;
     border: 7px solid #701B4D; 
     border-radius: 30px;
-    opacity: 0.04;
+    opacity: 0.56;
     box-shadow: 10px 10px 8px #B4B4B4
 }
 
-.kontent:hover{
-    opacity: 0.7;
-}
+
 
 .head{color:#F7FBFE;
 padding:0 40px;
@@ -30,13 +28,12 @@ line-height: 25px;
     margin: 15px;
     border: 7px solid #701B4D; 
     border-radius: 30px;
-    opacity: 0.04;
+    opacity: 0.56;
     box-shadow: 10px 10px 8px #B4B4B4;
     height: 300px;
     font-size:25px;
 }
-.kontent1:hover{
-    opacity: 0.7;
+
 }
 body{
     background-image: url(img/gandex.jpg);
