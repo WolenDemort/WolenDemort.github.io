@@ -1,0 +1,39 @@
+.kontent{
+    
+    background-color: #00021E;
+    padding: 15px;
+    margin: 15px;
+    border: 7px solid #701B4D; 
+    border-radius: 30px;
+    opacity: 0.4;
+    box-shadow: 10px 10px 8px #B4B4B4
+}
+
+
+.head{color:#F7FBFE;
+padding:0 40px;
+font-size:20px;
+font-weight:100;
+text-align:left;
+text-decoration:none;
+height:30px;
+line-height: 25px;   
+}
+
+.kontent1{
+  background-color: #00021E; 
+    color:#F7FBFE;
+     padding: 15px;
+    margin: 15px;
+    border: 7px solid #701B4D; 
+    border-radius: 30px;
+    opacity: 0.4;
+    box-shadow: 10px 10px 8px #B4B4B4;
+    height: 300px;
+    font-size:25px;
+}
+
+body{
+    background-image: url(img/rem.jpg);
+    background-size:  100%;
+}
