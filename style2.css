@@ -28,19 +28,13 @@ line-height: 25px;
     margin: 15px;
     border: 7px solid #701B4D; 
     border-radius: 30px;
-    opacity: 0.86;
+    opacity: 0.6;
     box-shadow: 10px 10px 8px #B4B4B4;
     height: 300px;
     font-size:25px;
 }
 
-.img{
-    margin-left: 10px;
-    margin-right: 10px;
-   
-}
-
 body{
-    background-image: url(img/orig.jpg);
+    background-image: url(img/an.jpg);
     background-size:  100%;
 }
